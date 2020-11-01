@@ -1,4 +1,0 @@
-/home/osboxes/Desktop/newSocket/build/CMakeFiles/edit_cache.dir
-/home/osboxes/Desktop/newSocket/build/CMakeFiles/client.dir
-/home/osboxes/Desktop/newSocket/build/CMakeFiles/rebuild_cache.dir
-/home/osboxes/Desktop/newSocket/build/CMakeFiles/server.dir
